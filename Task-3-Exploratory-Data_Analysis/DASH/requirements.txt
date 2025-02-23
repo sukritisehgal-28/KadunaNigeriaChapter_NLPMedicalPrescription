@@ -1,0 +1,9 @@
+pandas
+plotly>=4.0.0
+wordcloud
+scikit-learn
+networkx
+dash>=2.0.0
+dash-cytoscape
+dash-bootstrap-components
+matplotlib
